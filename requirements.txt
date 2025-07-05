@@ -1,4 +1,5 @@
 Django
-Scikit-learn
-Pandas
-Numpy
+scikit-learn
+pandas
+numpy
+gunicorn
